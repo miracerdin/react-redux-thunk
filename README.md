@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [Click me to see the page](https://react-redux-thunk-two.vercel.app/)
 
 ## Available Scripts
 
